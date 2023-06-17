@@ -1,3 +1,12 @@
+""" Assignment 2 is a function reads the json file and stores it value in dict variable named ex5.
+
+Looping through each element in the list of dict we check for two values to be present in side dict one is name should be `Old Fashioned` other is type `donut` else continue the loop.
+
+if true check for the batter name `Coffee` present in the list of dict then return.
+
+if false sort the list of batters dict based on `id` key. Increment the id by one and set type as `Coffee` , append it to batters dict.
+"""
+
 import json
 
 
