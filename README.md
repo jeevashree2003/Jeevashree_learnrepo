@@ -40,8 +40,9 @@
 
 4. Create two endpoint
         
-        ```ruby
+        ```
         /api/printHello
+        
         /api/modifyRecipe
         ```
 
