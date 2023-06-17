@@ -1,6 +1,6 @@
 # Jeevashree_learnrepo
 
-###Assignment 1
+### Assignment 1
 #
 
 1. Create a git repository on github.com
@@ -9,7 +9,7 @@
 
 3. Create a simple program in python to print hello world
 
-###Assignment 2
+### Assignment 2
 #
 
 1. For this assignment, let’s use example 5. Store the example 5 json in a file ex5.json.
@@ -23,7 +23,7 @@
 
 5. Push the code to repo already created in the first assignment.
 
-###Assignment 3
+### Assignment 3
 #
 
 1. Create a flask api app for two endpoints.
