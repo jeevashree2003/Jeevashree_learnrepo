@@ -1,3 +1,5 @@
+#! /usr/bin/python3.11.3
+
 print("Hello everyone!")
 a=int(input("enter a number1"))
 b=int(input("enter another number2"))
