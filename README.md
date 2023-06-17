@@ -28,12 +28,12 @@
 
 1. Create a flask api app for two endpoints.
 
-2. Create a virtual environment in side working folder for me Assigment_3
+2. Create a virtual environment in side working folder for me Assigment3
 
 3. Then install dependence package flask using pip.
 
 4. Create two endpoint
-         /api/printHello
-         /api/modifyRecipe
+        >> /api/printHello
+        >>/api/modifyRecipe
 
 5. When you call on the endpoint printHello it should return string saying Helllo World!! and for modifyRecipe it should return the modified json value.
