@@ -39,11 +39,7 @@
 3. Then install dependence package flask using pip.
 
 4. Create two endpoint
-        
-        ```
-        /api/printHello
-        
-        /api/modifyRecipe
-        ```
+       
+        ```/api/printHello``` and ```/api/modifyRecipe```
 
 5. When you call on the endpoint printHello it should return string saying Helllo World!!  and for modifyRecipe it should return the modified json value.
