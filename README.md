@@ -30,7 +30,7 @@
 
 2. Create a virtual environment in side working folder for me Assigment3
 
-   from flask import Flask
+   '''from flask import Flask
 
    app = Flask(__name__)
 
