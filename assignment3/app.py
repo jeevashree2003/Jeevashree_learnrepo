@@ -6,10 +6,10 @@ Deploy the previous two assignments on a flask api and we should be able to run 
 """
 
 # Importing the required libraries
-from flask_app import Flask,jsonify
+from app import Flask,jsonify
 
 # Importing the required functions from the second assignment file
-from data.assignment_2 import read_data,mod,hello
+from data.assignment import read_data,mod,hello
 
 # Defining the flask app
 app=Flask(__name__)
