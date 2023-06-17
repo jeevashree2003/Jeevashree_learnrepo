@@ -1,8 +1,8 @@
 """
 Question:
 Deploy the previous two assignments on a flask api and we should be able to run this by calling.
-/api/printHello
-/api/modifyRecepie
+    /api/printHello
+    /api/modifyRecepie
 """
 
 # Importing the required libraries
